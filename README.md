@@ -1,4 +1,4 @@
-CIS 25 FINAL PROJECT
+# CIS 25 FINAL PROJECT
 
 I made a turn-based RPG battle that allows the user to choose from one of three characters to fight a dragon.
 Each character has unique values for their attack stats (strength, magic, and critical attack), and you can 
