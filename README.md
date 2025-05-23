@@ -14,5 +14,5 @@ and the program also keeps track of how many of each item are used/remaining in 
 
 When the dragon's health drops to roughly 1/5 of it's max health, it uses a special attack before the player's turn.
 
-I used classes to override the methods for each attack type depending on the user's choice of character, and also added
-borders using 'X' to make it visually appealing.
+I used base /derived classes to override the methods for each attack type depending on the user's choice of character, and also added
+borders using 'X' to make the program visually appealing.
