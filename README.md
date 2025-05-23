@@ -6,6 +6,9 @@ and critical attack), and the user can choose which type of attack to use as you
 the fight. Each turn presents the user with a menu that allows them to choose from 1) Attack, 2) Magic, 3) Critical (Attack),
 and 4) Items. 
 
+The damage and conditions for which a critical attack works vary based on the character to add some semblance of variety 
+and different strategies for each player type.
+
 There are four items at your disposal (two that heal the player and two that deal damage to the opponent),
 and the program also keeps track of how many of each item are used/remaining in the player's inventory.
 
